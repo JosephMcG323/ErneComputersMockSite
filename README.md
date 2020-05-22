@@ -1,3 +1,20 @@
+A mock website for Enrne Computers Allowing users to order PC cases to a checkout. Planned Paypal Functionality link with Erne Computers Personal PayPal and to be hosted by Bluehost servers.
+
+IDE - VSCODE
+
+In VS code run NPM install to have the app run locally on your browser.
+
+You will need to have REACT & REDUX installed to run this app
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
